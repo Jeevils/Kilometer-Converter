@@ -1,0 +1,7 @@
+miles = 500
+kilometers = miles * 1.609344
+print(miles)
+print("mph")
+print("is equal to")
+print(kilometers)
+print("kph")
